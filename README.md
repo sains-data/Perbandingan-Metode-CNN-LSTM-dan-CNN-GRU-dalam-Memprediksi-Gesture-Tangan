@@ -1,0 +1,1 @@
+# Perbandingan-Metode-CNN-LSTM-dan-CNN-GRUdalamMemprediksi-Gesture-Tangan
