@@ -1,4 +1,4 @@
-# Perbandingan-Metode-CNN-LSTM-dan-CNN-GRUdalamMemprediksi-Gesture-Tangan
+# Perbandingan-Metode-CNN-LSTM-dan-CNN-GRU dalam Memprediksi-Gesture-Tangan
 
 ### Kelompok 22 Tugas Besar Deep Learning
 - Veni Zahara Kartika
