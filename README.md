@@ -14,3 +14,5 @@ Pengenalan gestur tangan merupakan salah satu bidang penting dalam komunikasi no
 ## Dataset
 ### Sumber Dataset
 - https://www.kaggle.com/datasets/toxicmender/20bn-jester/data
+
+test
